@@ -6,7 +6,10 @@ public class DivisionByZero {
 
 	int p = 9;
 	int s = 10;
-
+		
+	int t=1212;
+	long s = 3l;
+	
 	public static int quotient(int numerator,int denominator) throws ArithmeticException {
 		return numerator/denominator;
 	}
