@@ -3,7 +3,7 @@ public class Finally {
 
 	
 	public static void main (String[] args) {
-		int x;
+		int x = 12;
 		try {
 			throwException();
 		} catch (Exception e) {
