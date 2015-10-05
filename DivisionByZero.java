@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class DivisionByZero {
 
 	int p = 9;
+	int s = 10;
 
 	public static int quotient(int numerator,int denominator) throws ArithmeticException {
 		return numerator/denominator;
